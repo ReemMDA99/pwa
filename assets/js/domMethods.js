@@ -1,5 +1,5 @@
 require("bootstrap");
-const createEl = require("./domMethods");
+// const createEl = require("./domMethods");
 function createEl(htmlString, attrs, ...children) {
     if (typeof htmlString !== "string") {
       throw Error("Argument 'htmlString' is required and must be a string");

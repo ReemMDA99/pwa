@@ -19,12 +19,14 @@
   },
   "homepage": "https://github.com/ReemMDA99/pwa#readme",
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "webpack": "^5.75.0",
     "webpack-bundle-analyzer": "^4.7.0",
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "image-webpack-loader": "^8.1.0",
     "jquery": "^3.6.1",
     "popper.js": "^1.16.0",
     "save": "^2.9.0"
