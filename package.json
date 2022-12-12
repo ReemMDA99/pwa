@@ -1,0 +1,32 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReemMDA99/pwa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReemMDA99/pwa/issues"
+  },
+  "homepage": "https://github.com/ReemMDA99/pwa#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-bundle-analyzer": "^4.7.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.6.1",
+    "popper.js": "^1.16.0",
+    "save": "^2.9.0"
+  }
+}
